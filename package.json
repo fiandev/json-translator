@@ -1,0 +1,30 @@
+{
+  "name": "json-translator",
+  "description": "simple tools to translated json file for localization easly, based on google translate API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiandev/json-translator.git"
+  },
+  "keywords": [
+    "json",
+    "translate",
+    "localization",
+    "nodejs",
+    "javascript"
+  ],
+  "dependencies": {
+    "translate-google": "^1.5.0"
+  },
+  "author": "fiandev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fiandev/json-translator/issues"
+  },
+  "homepage": "https://github.com/fiandev/json-translator#readme"
+}
